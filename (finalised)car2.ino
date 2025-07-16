@@ -1,5 +1,16 @@
 // =================================================================
 //                 SMART CAR PROJECT - CAR 2
+
+
+/*
+ * Smart Car Dashboard - Car 2
+ * Author: Stromlabs - Pavan Kalsariya
+ * Date: July 2025
+ * Description: ESP32 code for Car 2, connecting to Car 1’s WiFi, reading sensors
+ * (DHT11, ultrasonics), controlling indicators and buzzer, and syncing with Car 1.
+ * Visit: stromlabs.tech
+ */
+
 // =================================================================
 
 #include <WiFi.h>
