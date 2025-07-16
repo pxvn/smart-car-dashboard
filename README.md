@@ -146,7 +146,7 @@ Contains the HTML, CSS, and JavaScript for the web-based dashboard.
 
 ## Software Requirements
 
-- Arduino IDE or PlatformIO
+- Arduino IDE (I used Arduino IDE 2.3.6 and Arduino Cloud)
 
 ### Libraries:
 - ESPAsyncWebServer
