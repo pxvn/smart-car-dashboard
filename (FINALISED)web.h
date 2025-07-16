@@ -1,3 +1,11 @@
+/*
+ * Smart Car Dashboard - Web Interface
+ * Author: Stromlabs - Pavan Kalsariya
+ * Date: July 2025
+ * Description: HTML, CSS, and JavaScript for the web-based dashboard, displaying
+ * sensor data, compass, speedometer, two cars with indicators, and dynamic obstacles.
+ */
+
 #pragma once
 
 #include <pgmspace.h>
