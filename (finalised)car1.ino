@@ -1,5 +1,16 @@
 // =================================================================
 //                 SMART CAR PROJECT - CAR 1 (MAIN)
+
+/*
+ * Smart Car Dashboard - Car 1
+ * Author: Stromlabs - Pavan Kalsariya
+ * Date: July 2025
+ * Description: Main ESP32 code for Car 1, managing sensors (DHT11, MPU6050, ultrasonic),
+ * indicators, buzzer, NeoPixel, and hosting a WiFi AP and web server for the dashboard.
+ * vist: stromlabs.tech
+ */
+
+
 // =================================================================
 
 #include <WiFi.h>
